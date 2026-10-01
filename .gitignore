@@ -1,0 +1,23 @@
+# MPLAB X build output
+.generated_files/
+build/
+debug/
+dist/
+
+# MPLAB X private settings
+nbproject/private/
+
+# Build artifacts
+*.o
+*.obj
+*.elf
+*.hex
+*.log
+*.tmp
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# Backups
+*.bak*
