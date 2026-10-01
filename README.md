@@ -101,5 +101,5 @@ U projektu se koriste:
 
 
 
-Video rada sustava: https://https://www.youtube.com/watch?v=pOpP5bC\_Jxo
+\[Video rada sustava](https://www.youtube.com/watch?v=pOpP5bC\_Jxo)
 
